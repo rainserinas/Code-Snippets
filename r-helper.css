@@ -1,0 +1,66 @@
+/*--------------------- back image ---------------------*/
+.r-back-image-cover {
+	background-size: cover;
+	background-position: top center;
+}
+
+/*--------------------- Button ---------------------*/ 
+.r-btn {
+	text-decoration: none;
+	padding: 12px 30px;
+	border: 1px solid #31b4d2;
+	color: #fff;
+	background: #31b4d2;
+	transition: 1s ease;
+}
+.r-btn:hover {
+	background-color: #fff;
+	color: #31b4d2;
+}
+
+/*--------------------- Card ---------------------*/
+.r-card {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.r-card:hover {
+	box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+/*--------------------- Horizontal Align ---------------------*/
+.r-align-horizontally {
+    display: inline-block;
+}
+
+/*--------------------- Section padding ---------------------*/
+.r-padding-1x {
+	padding: 60px 60px;
+}
+.r-padding-2x {
+	padding: 70px 70px;
+}
+.r-padding-3x {
+	padding: 80px 80px;
+}
+.r-padding-4x {
+	padding: 90px 90px;
+}
+
+/*--------------------- Text alignment ---------------------*/
+.r-text-center {
+	text-align: center;
+}
+.r-text-left {
+	text-align: left;
+}
+.r-text-right {
+	text-align: right;
+}
+
+/*--------------------- ul navbar ---------------------*/
+.r-nav-horizontal li {
+	display: inline-block;
+	padding-right: 10px;
+}
+.r-nav-horizontal li:last-child {
+	padding-right: 0px;
+}
