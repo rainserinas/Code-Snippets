@@ -64,3 +64,14 @@
 .r-nav-horizontal li:last-child {
 	padding-right: 0px;
 }
+
+/* --------------------- Font Weight ---------------------*/
+.r-light {
+	font-weight: 300;
+}
+.r-regular {
+	font-weight: 400;
+}
+.r-bold {
+	font-weight: 700;
+}
